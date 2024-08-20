@@ -1,1 +1,4 @@
 this is the content of D
+use trunk base deployment <-- branching (maintaining one branch that is main branch as long-lived branch)
+merge your feature branches to main atleast one a day
+
